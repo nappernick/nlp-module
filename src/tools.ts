@@ -1,4 +1,4 @@
-// src/tools.ts
+// nlp-module/src/tools.ts
 
 export const summarizeTextTool = {
   name: 'summarize_text',

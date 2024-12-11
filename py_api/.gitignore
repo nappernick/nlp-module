@@ -1,0 +1,7 @@
+.__pycache__/**/*
+.nlp/
+.pytest_cache/
+.py_api*
+.tests/
+.coverage
+summaries.txt
